@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+*.dtproj.user
+*.suo
+*.ispac
+*.database
+*.bak
+*.log
+.env
